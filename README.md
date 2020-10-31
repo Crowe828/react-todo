@@ -1,4 +1,4 @@
-# React-Todo
+# React Todo
 
 ## Description
 
